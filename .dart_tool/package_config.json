@@ -51,9 +51,9 @@
     },
     {
       "name": "intl",
-      "rootUri": "file:///Users/irfan/.pub-cache/hosted/pub.dev/intl-0.17.0",
+      "rootUri": "file:///Users/irfan/.pub-cache/hosted/pub.dev/intl-0.19.0",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "3.0"
     },
     {
       "name": "matcher",
@@ -140,7 +140,7 @@
       "languageVersion": "2.12"
     }
   ],
-  "generated": "2024-01-17T05:38:52.117880Z",
+  "generated": "2024-01-27T03:08:44.508148Z",
   "generator": "pub",
   "generatorVersion": "3.1.5"
 }
